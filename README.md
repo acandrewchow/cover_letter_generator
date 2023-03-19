@@ -13,7 +13,7 @@ Receive your API Key from https://platform.openai.com/account/api-keys
 Add your API Key to your .env file
 
 ```
-API_KEY = "YOURAPIKEY"
+OPENAI_API_KEY = "YOURAPIKEY"
 ```
 
 Install the required packages 
@@ -21,6 +21,11 @@ Install the required packages
 reportlab
 ``` 
 pip install reportlab
+```
+
+dotenv
+```
+pip install python-dotenv
 ```
 
 OpenAI
