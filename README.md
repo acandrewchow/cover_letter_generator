@@ -1,6 +1,6 @@
 # cover_letter_generator
 
-Python script that utilizes Open AI's API to generate custom cover letters. User enters information about the job and company which then produces a cover letter in .PDF within the same directory
+Python script that utilizes Open AI's API to generate custom cover letters. Cover letter is generated after the user enters job/company's information
 
 # Installation
 
